@@ -1,0 +1,34 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+header {
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+label {
+    font-size: 25px;
+}
+
+form {
+    display: inline-block;
+}
+
+.hogan1{
+    float: left;
+}
+
+.hogan2{
+    float: right;
+}
